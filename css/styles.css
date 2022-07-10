@@ -16,3 +16,15 @@ body {
   width: 80%;
 
 }
+
+.library-display {
+  display: flex;
+}
+
+.card {
+  background-color: #aaa;
+  margin-right: 10px;
+  width: 150px;
+  height: 200px;
+  border-radius: 12px;
+}
